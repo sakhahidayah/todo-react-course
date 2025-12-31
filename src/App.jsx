@@ -8,7 +8,7 @@ function App() {
         <h2 className={styles.Title}>To-Do App</h2>
       </header>
 
-      <div className={styles.AppContainer}>Content</div>
+      <div className={styles.AppContainer}>Content Todo</div>
     </div>
   );
 }
